@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/lexie-app/static/css/main.bbc2289b.css",
-    "main.js": "/lexie-app/static/js/main.7cbb7a2c.js",
-    "static/media/lx4.jpg": "/lexie-app/static/media/lx4.3d7f4dbb92ae7a1edd85.jpg",
-    "static/media/lx1.jpg": "/lexie-app/static/media/lx1.a7c7c00c3e49be74abe4.jpg",
-    "static/media/lx3.jpg": "/lexie-app/static/media/lx3.4fefd9ba4f92723d49d8.jpg",
-    "static/media/lx2.jpg": "/lexie-app/static/media/lx2.0df6f3dd0eb3857167a0.jpg",
-    "index.html": "/lexie-app/index.html",
-    "main.bbc2289b.css.map": "/lexie-app/static/css/main.bbc2289b.css.map",
-    "main.7cbb7a2c.js.map": "/lexie-app/static/js/main.7cbb7a2c.js.map"
+    "main.css": "/Lexie-App/static/css/main.bbc2289b.css",
+    "main.js": "/Lexie-App/static/js/main.81cc5c35.js",
+    "static/media/lx4.jpg": "/Lexie-App/static/media/lx4.3d7f4dbb92ae7a1edd85.jpg",
+    "static/media/lx1.jpg": "/Lexie-App/static/media/lx1.a7c7c00c3e49be74abe4.jpg",
+    "static/media/lx3.jpg": "/Lexie-App/static/media/lx3.4fefd9ba4f92723d49d8.jpg",
+    "static/media/lx2.jpg": "/Lexie-App/static/media/lx2.0df6f3dd0eb3857167a0.jpg",
+    "index.html": "/Lexie-App/index.html",
+    "main.bbc2289b.css.map": "/Lexie-App/static/css/main.bbc2289b.css.map",
+    "main.81cc5c35.js.map": "/Lexie-App/static/js/main.81cc5c35.js.map"
   },
   "entrypoints": [
     "static/css/main.bbc2289b.css",
-    "static/js/main.7cbb7a2c.js"
+    "static/js/main.81cc5c35.js"
   ]
 }
