@@ -1,0 +1,20 @@
+body{
+    background: linear-gradient(to right, #0074D9, #6C757D, #000000);
+}
+
+
+.title{
+    position: relative;
+   top: 500px;
+   left: 20px;
+   color: white;
+   font-size: 150px
+}
+.queen{
+    color: #FFD400;
+    
+}
+
+.whata{
+    background-color: red;
+}
